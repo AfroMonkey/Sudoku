@@ -10,3 +10,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/App/Sudoku/nbproject/private/
+/App/Sudoku/build/
+/App/2015m03d25pGroupLayer/nbproject/private/
+/App/AsistenteDeCompras/gen/
